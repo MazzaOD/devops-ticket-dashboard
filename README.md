@@ -151,12 +151,11 @@ http://127.0.0.1:8000
 
 ## Screenshots
 
-Add screenshots here once available.
 
 ### Dashboard Overview
 
 ```text
-docs/images/dashboard-overview.png
+<img src="docs/images/dashboard-overview.png">
 ```
 
 ### Service Health View

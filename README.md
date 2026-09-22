@@ -149,22 +149,6 @@ http://127.0.0.1:8000
 
 ---
 
-## Screenshots
-
-
-### Dashboard Overview
-
-```text
-<img src="docs/images/dashboard-overview.png">
-```
-
-### Service Health View
-
-```text
-docs/images/service-health.png
-```
-
----
 
 ## Future Improvements
 
